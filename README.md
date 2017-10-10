@@ -2,10 +2,10 @@
 Validar tarjeta es un sistema que permite validar el número de una tarjeta.
 ### Pseudocódigo
 
-#####Input:
+##### Input:
     - El programa permitirá ingresar un número de 13 dígitos
 
-#####Process: 
+##### Process: 
 - Encriptar:
     - El programa leerá el número.
     - El programa validará que el valor ingresado se número y no sea vacio y sea de 13 dígitos.
@@ -16,4 +16,4 @@ Validar tarjeta es un sistema que permite validar el número de una tarjeta.
     - El programa validará si el resultado del módulo sale 0; es valido; sino es inválido
 
 ### Diagrama de Flujo
-[DiagramaFlujo](file:///C:/Users/CSOSA/Desktop\Repositorio-1\CIPHERCESAR\assets/DF.svg)
+[DiagramaFlujo]()
