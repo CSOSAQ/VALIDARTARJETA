@@ -16,4 +16,4 @@ Validar tarjeta es un sistema que permite validar el número de una tarjeta.
     - El programa validará si el resultado del módulo sale 0; es valido; sino es inválido
 
 ### Diagrama de Flujo
-[DiagramaFlujo]()
+[DiagramaFlujo](https://cloud.smartdraw.com/editor.aspx?templateId=e013bd54-0467-465e-8953-b2ee7e134d9e#depoId=6525590&credID=-19987432)
