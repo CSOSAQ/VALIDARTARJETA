@@ -1,8 +1,6 @@
 var numbertarjet= prompt("Ingrese el número de su tarjeta");
 function isValidCrad(numbertarjet){
     var newarr =[];
-    var newarru=[];
-    var newarrmu=[];
     var sum =0;
     var sumimp=0;
    
